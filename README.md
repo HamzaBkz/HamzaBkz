@@ -13,9 +13,13 @@
 
 Custom design, a page for each treatment, an interactive face map, a before/after gallery and online booking.
 
+[![Cabinet Détente website](images/detente.svg)](https://detente-dz.com)
+
 **Jinane Pharm** · pharmaceutical brand · [jinanepharm.com](https://jinanepharm.com)
 
 WooCommerce product catalog organized by range, smooth animations and a mobile-first layout.
+
+[![Jinane Pharm website](images/jinane.svg)](https://jinanepharm.com)
 
 ### Tools
 
