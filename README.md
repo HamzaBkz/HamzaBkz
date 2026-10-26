@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Hamza 👋
 
-<!--
-**HamzaBkz/HamzaBkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WordPress & Elementor developer** based in Algeria, building websites for clients anywhere.
 
-Here are some ideas to get you started:
+- 🎨 Figma, Lovable or AI-made designs → WordPress + Elementor
+- 🌍 Multilingual websites in English, French and Arabic (RTL)
+- 🛒 WooCommerce stores and product catalogs
+- 🔧 Fixing, finishing and launching sites built with Lovable, Bolt and other AI tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent work
+
+**Cabinet Détente** · medical aesthetics clinic · [detente-dz.com](https://detente-dz.com)
+
+Custom design, a page for each treatment, an interactive face map, a before/after gallery and online booking.
+
+**Jinane Pharm** · pharmaceutical brand · [jinanepharm.com](https://jinanepharm.com)
+
+WooCommerce product catalog organized by range, smooth animations and a mobile-first layout.
+
+### Tools
+
+WordPress · Elementor (Free & Pro) · WooCommerce · Figma · HTML · CSS
+
+### Work with me
+
+Open to freelance projects and remote roles.
+
+[LinkedIn](https://www.linkedin.com/in/hamzab-dev) · [Upwork](https://www.upwork.com/freelancers/~01e983105fc928e962) · [Fiverr](https://www.fiverr.com/hmza19506) · hamzab.dev@outlook.com
